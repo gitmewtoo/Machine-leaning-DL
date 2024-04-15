@@ -6,7 +6,7 @@ plotted representations. Transitioning from raw audio to mel-spectrograms provid
 insights into their distinct features. 
 Training the dataset on a CNN model yielded promising results with an accuracy of 85% 
 and a validation accuracy of 68%, suggesting that augmentation is needed. 
-Challenges: 
+
 Challenges surfaced during the augmentation phase, particularly in determining suitable 
 parameters for frequency and amplitude augmentation. The wide amplitude range 
 necessitated cautious scaling to maintain data integrity. 
